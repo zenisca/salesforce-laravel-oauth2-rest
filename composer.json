@@ -44,5 +44,5 @@
             "type": "vcs",
             "url": "https://github.com/zenisca/guzzle-oauth2-middleware"
         }
-    ],
+    ]
 }
